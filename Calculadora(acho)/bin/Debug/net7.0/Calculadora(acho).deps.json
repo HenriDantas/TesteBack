@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Calculadora(acho)/1.0.0": {
+        "runtime": {
+          "Calculadora(acho).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculadora(acho)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\santo\OneDrive\Documents\GitHub\TesteBack\Calculadora(acho)\bin\Debug\net7.0\Calculadora(acho).exe
+C:\Users\santo\OneDrive\Documents\GitHub\TesteBack\Calculadora(acho)\bin\Debug\net7.0\Calculadora(acho).deps.json
+C:\Users\santo\OneDrive\Documents\GitHub\TesteBack\Calculadora(acho)\bin\Debug\net7.0\Calculadora(acho).runtimeconfig.json
+C:\Users\santo\OneDrive\Documents\GitHub\TesteBack\Calculadora(acho)\bin\Debug\net7.0\Calculadora(acho).dll
+C:\Users\santo\OneDrive\Documents\GitHub\TesteBack\Calculadora(acho)\bin\Debug\net7.0\Calculadora(acho).pdb
+C:\Users\santo\OneDrive\Documents\GitHub\TesteBack\Calculadora(acho)\obj\Debug\net7.0\Calculadora(acho).csproj.AssemblyReference.cache
+C:\Users\santo\OneDrive\Documents\GitHub\TesteBack\Calculadora(acho)\obj\Debug\net7.0\Calculadora(acho).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santo\OneDrive\Documents\GitHub\TesteBack\Calculadora(acho)\obj\Debug\net7.0\Calculadora(acho).AssemblyInfoInputs.cache
+C:\Users\santo\OneDrive\Documents\GitHub\TesteBack\Calculadora(acho)\obj\Debug\net7.0\Calculadora(acho).AssemblyInfo.cs
+C:\Users\santo\OneDrive\Documents\GitHub\TesteBack\Calculadora(acho)\obj\Debug\net7.0\Calculadora(acho).csproj.CoreCompileInputs.cache
+C:\Users\santo\OneDrive\Documents\GitHub\TesteBack\Calculadora(acho)\obj\Debug\net7.0\Calculadora(acho).dll
+C:\Users\santo\OneDrive\Documents\GitHub\TesteBack\Calculadora(acho)\obj\Debug\net7.0\refint\Calculadora(acho).dll
+C:\Users\santo\OneDrive\Documents\GitHub\TesteBack\Calculadora(acho)\obj\Debug\net7.0\Calculadora(acho).pdb
+C:\Users\santo\OneDrive\Documents\GitHub\TesteBack\Calculadora(acho)\obj\Debug\net7.0\Calculadora(acho).genruntimeconfig.cache
+C:\Users\santo\OneDrive\Documents\GitHub\TesteBack\Calculadora(acho)\obj\Debug\net7.0\ref\Calculadora(acho).dll
